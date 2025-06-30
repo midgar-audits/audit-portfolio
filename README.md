@@ -9,9 +9,9 @@ This portfolio showcases the audit work of **Midgar**, including public contests
 
 We are a team of security researchers participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), while also conducting private audits under the **Midgar** banner.
 
-- Twitter (EVDoc): [@AboutikaR](https://x.com/AboutikaR)  
-- Twitter (0xVangrim): [@0xvangrim_](https://x.com/0xvangrim_)  
 - Twitter (Midgar): [@midgarxyz](https://x.com/midgarxyz)  
+- Twitter (0xVangrim): [@0xvangrim_](https://x.com/0xvangrim_) 
+- Twitter (EVDoc): [@AboutikaR](https://x.com/AboutikaR)  
 
 Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
@@ -21,7 +21,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Protocol | About | Platform | Result | Report |
 |----------|-------|----------|--------|--------|
-| Mezo     | Stablecoin | Cantina | 10/475 | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
+| Mezo     | Stablecoin | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/475 | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | TBD 1    | -     | -        | -      | -      |
 | TBD 2    | -     | -        | -      | -      |
 
