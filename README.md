@@ -21,6 +21,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Protocol | About | Platform | Rank | Report |
 |----------|-------|----------|--------|--------|
+| Gauntlet / aera-v3 | Vault Infra | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 3/623 | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) 
 | Mezo     | Stablecoin | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/475 | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | Sparkn    | Marketplace     | <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" width="16"/> CodeHawks | 7/202      | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn)      |
 | Basin    | DEX     | <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="C4" width="16"/> Code4rena | 9/73      | [Report](https://code4rena.com/reports/2023-07-basin)      |
