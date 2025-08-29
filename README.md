@@ -37,6 +37,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock" width="16"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
 | Basin | <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="C4" width="16"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
 | Mezo | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/475 | Stablecoin | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
+| Silo | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/416 | Lending | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
 ---
 
@@ -69,7 +70,10 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 |---------|-------|------|--------|--------|-----------------|
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
-| Mezo | Stablecoin | — | — | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
+| Ammalgam | Lending Exchange  | - | 1 | — | [Report](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) |
+| Jigsaw | Stablecoin | 3 | 3 | — | [Report](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
+| Mezo | Stablecoin | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
+| Silo | Lending | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
 ### <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" width="16"/> CodeHawks
 
