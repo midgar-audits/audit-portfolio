@@ -97,7 +97,7 @@ Low/QA counts include Informational findings.
 | DeGaming | Casino | 5 | 1 | 11 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming_Security_Audit_v.1.0.pdf) |
 | DeGaming 2nd Audit | Casino | 5 | 1 | 2 | 2 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming%20Platform%202nd%20Security%20Audit%20v.1.0.pdf) |
 | DeGaming Bankroll | Vault | 2 | 6 | 6 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Bankroll%20Contracts%20Security%20Audit%20v.1.1.pdf) |
-| Parifi Midgar x Guardian | Perpetual | 1 | 5 | 11 | 18 | [Report](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf) |
+| Parifi (Midgar x Guardian) | Perpetual | 1 | 5 | 11 | 18 | [Report](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf) |
 
 ---
 
