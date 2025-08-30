@@ -19,8 +19,8 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 ## 📊 Audit Overview
 
-**Total audits**: 23+  
-**Severities**: 13+ Critical • 28+ High • 48+ Medium • 32+ Low/QA  
+**Total audits**: 27+  
+**Severities**: 14+ Critical • 35+ High • 67+ Medium • 50+ Low/QA  
 **Best placement**: 1st place • **Top-10 finishes**: 6 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino
@@ -97,7 +97,7 @@ Low/QA counts include Informational findings.
 | DeGaming | Casino | 5 | 1 | 11 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming_Security_Audit_v.1.0.pdf) |
 | DeGaming 2nd Audit | Casino | 5 | 1 | 2 | 2 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming%20Platform%202nd%20Security%20Audit%20v.1.0.pdf) |
 | DeGaming Bankroll | Vault | 2 | 6 | 6 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Bankroll%20Contracts%20Security%20Audit%20v.1.1.pdf) |
-| Parifi Midgar x Guardian | Perpetual | — | — | — | — | – |
+| Parifi Midgar x Guardian | Perpetual | 1 | 5 | 11 | 18 | [Report](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf) |
 
 ---
 
