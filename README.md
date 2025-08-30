@@ -20,7 +20,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 ## 📊 Audit Overview
 
 **Total audits**: 27+  
-**Severities**: 14+ Critical • 35+ High • 67+ Medium • 50+ Low/QA  
+**Severities**: 14+ Critical • 35+ High • 67+ Medium • 51+ Low/QA  
 **Best placement**: 1st place • **Top-10 finishes**: 6 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino
@@ -71,7 +71,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
 | Ammalgam | Lending Exchange  | - | 1 | — | [Report](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) |
-| Jigsaw | Stablecoin | 3 | 3 | — | [Report](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
+| Jigsaw | Stablecoin | 3 | 3 | 1 | [Report](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
 | Mezo | Stablecoin | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | Silo | Lending | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
