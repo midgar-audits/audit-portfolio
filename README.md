@@ -19,8 +19,8 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 ## 📊 Audit Overview
 
-**Total audits**: 28+  
-**Severities**: 14+ Critical • 37+ High • 69+ Medium • 51+ Low/QA  
+**Total audits**: 30+  
+**Severities**: 14+ Critical • 40+ High • 70+ Medium • 50+ Low/QA  
 **Best placement**: 1st place • **Top-10 finishes**: 8 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino
@@ -69,6 +69,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
+| Pike Finance | Lending / Stablecoin | — | 1 | — | [Report](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
 | Telcoin Network | L1 | 2 | 2 | — | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
