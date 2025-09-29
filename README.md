@@ -23,7 +23,8 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 **Total audits**: 30+  
 **Severities**: 14+ Critical • 40+ High • 70+ Medium • 50+ Low/QA  
-**Best placement**: 1st place • **Top-10 finishes**: 8 (shown in highlights)  
+**Best placement**: 1st place 
+**Top-10 finishes**: 8 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino
 
