@@ -1,5 +1,7 @@
 # Midgar Auditing Portfolio
 
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 This portfolio showcases the audit work of **Midgar**, including public contests and private audits led by **EVDoc** and **0xvangrim** in the Web3 security space.
 
 
@@ -31,20 +33,20 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Contest | Platform | Rank | About | Report |
 |---------|----------|------|-------|--------|
-| RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock" width="16"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
-| Gauntlet / aera-v3 | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
-| Sparkn | <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" width="16"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
-| Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock" width="16"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
-| Telecoin Network | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 9/687 | L1 | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
-| Basin | <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="C4" width="16"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
-| Mezo | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/475 | Stablecoin | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
-| Silo v2 | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/416 | Lending | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
+| RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock" class="platform-logo"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
+| Gauntlet / aera-v3 | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" class="platform-logo"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
+| Sparkn | <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" class="platform-logo"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
+| Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock" class="platform-logo"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
+| Telecoin Network | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" class="platform-logo"/> Cantina | 9/687 | L1 | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
+| Basin | <img src="favicons/code4rena.svg" alt="Code4rena" class="platform-logo"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
+| Mezo | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" class="platform-logo"/> Cantina | 10/475 | Stablecoin | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
+| Silo v2 | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" class="platform-logo"/> Cantina | 10/416 | Lending | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
 ---
 
 ## 🏆 Competitive Platforms
 
-### <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="Code4rena" width="16"/> Code4rena
+### <img src="favicons/code4rena.svg" alt="Code4rena" class="platform-logo"/> Code4rena
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -56,7 +58,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | 2023-08-chainlink-staking-v02 | Staking | — | 1 | — | [Report](https://code4rena.com/audits/2023-08-chainlink-staking-v02) |
 | 2023-07-basin | DEX | — | 1 | — | [Report](https://code4rena.com/reports/2023-07-basin) |
 
-### <img src="favicons/sherlock.ico" alt="Sherlock" width="16"/> Sherlock
+### <img src="favicons/sherlock.ico" alt="Sherlock" class="platform-logo"/> Sherlock
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -65,7 +67,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Allo V2 | Grants | — | 2 | — | [Report](https://audits.sherlock.xyz/contests/109/report) |
 | Burve | AMM | 1 | — | — | [Report](https://audits.sherlock.xyz/contests/858/report) |
 
-### <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina
+### <img src="https://cantina.xyz/favicon.ico" alt="Cantina" class="platform-logo"/> Cantina
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -78,7 +80,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Mezo | Stablecoin | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
 | Silo v2 | Lending | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
-### <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" width="16"/> CodeHawks
+### <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" class="platform-logo"/> CodeHawks
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
