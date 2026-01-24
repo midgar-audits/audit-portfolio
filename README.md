@@ -34,6 +34,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Contest | Platform | Rank | About | Report |
 |---------|----------|------|-------|--------|
+| Octant v2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 10/609 | Vault Infra | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview/leaderboard) |
 | RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
 | Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Somnia | <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof | 3/47 | L1 Blockchain | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
@@ -53,6 +54,9 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
+| Monad | L1 | 1 | - | — | [Report](https://code4rena.com/audits/2025-09-monad) |
+| Megapot | DeFi | - | 1 | — | [Report](https://code4rena.com/reports/2025-11-megapot) |
+| GTE Spot CLOB and Router | DeFi | - | 1 | — | [Report](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router) |
 | 2025-04-kinetiq | DeFi | 1 | 1 | — | [Report](https://code4rena.com/reports/2025-04-kinetiq) |
 | 2025-01-next-generation | ERC20/Forwarder | — | 1 | — | [Report](https://code4rena.com/reports/2025-01-next-generation) |
 | 2023-11-canto (ASD & 1155 Bonding Curves) | Bonding curves | — | 1 | — | [Report](https://code4rena.com/reports/2023-11-canto) |
@@ -74,6 +78,8 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
+| Octant v2 | Vault | — | 1 | — | [Report](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5/overview) |
+| Kuru | AMM | — | 1 | — | [Report](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/) |
 | Morpho Vault V2 | Vault | — | 1 | — | [Report](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview) |
 | Pike Finance | Lending / Stablecoin | — | 1 | — | [Report](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
 | Telcoin Network | L1 | 2 | 2 | — | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
