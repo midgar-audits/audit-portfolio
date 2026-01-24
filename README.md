@@ -22,9 +22,9 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 ## 📊 Audit Overview
 
 **Total audits**: 30+  
-**Severities**: 14+ Critical • 42+ High • 71+ Medium • 51+ Low/QA  
+**Severities**: 14+ Critical • 43+ High • 73+ Medium • 51+ Low/QA  
 **Best placement**: 1st place 
-**Top-10 finishes**: 10 (shown in highlights)  
+**Top-10 finishes**: 11 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks • HackenProof  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino • L1 Blockchain
 
@@ -57,13 +57,13 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Monad | L1 | 1 | - | — | [Report](https://code4rena.com/audits/2025-09-monad) |
 | Megapot | DeFi | - | 1 | — | [Report](https://code4rena.com/reports/2025-11-megapot) |
 | GTE Spot CLOB and Router | DeFi | - | 1 | — | [Report](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router) |
-| 2025-04-kinetiq | DeFi | 1 | 1 | — | [Report](https://code4rena.com/reports/2025-04-kinetiq) |
-| 2025-01-next-generation | ERC20/Forwarder | — | 1 | — | [Report](https://code4rena.com/reports/2025-01-next-generation) |
-| 2023-11-canto (ASD & 1155 Bonding Curves) | Bonding curves | — | 1 | — | [Report](https://code4rena.com/reports/2023-11-canto) |
-| 2023-10-nextgen | ERC20 | 1 | — | — | [Report](https://code4rena.com/reports/2023-10-nextgen) |
-| 2023-08-dopex | Options AMM | — | 1 | — | [Report](https://code4rena.com/reports/2023-08-dopex) |
-| 2023-08-chainlink-staking-v02 | Staking | — | 1 | — | [Report](https://code4rena.com/audits/2023-08-chainlink-staking-v02) |
-| 2023-07-basin | DEX | — | 1 | — | [Report](https://code4rena.com/reports/2023-07-basin) |
+| Kinetiq | DeFi | 1 | 1 | — | [Report](https://code4rena.com/reports/2025-04-kinetiq) |
+| Nex Generation | ERC20/Forwarder | — | 1 | — | [Report](https://code4rena.com/reports/2025-01-next-generation) |
+| Canto (ASD & 1155 Bonding Curves) | Bonding curves | — | 1 | — | [Report](https://code4rena.com/reports/2023-11-canto) |
+| Nextgen | ERC20 | 1 | — | — | [Report](https://code4rena.com/reports/2023-10-nextgen) |
+| Dopex | Options AMM | — | 1 | — | [Report](https://code4rena.com/reports/2023-08-dopex) |
+| Chainlink staking v02 | Staking | — | 1 | — | [Report](https://code4rena.com/audits/2023-08-chainlink-staking-v02) |
+| Basin | DEX | — | 1 | — | [Report](https://code4rena.com/reports/2023-07-basin) |
 
 ### <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock
 
